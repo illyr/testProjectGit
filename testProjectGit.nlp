@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=testProjectGit
+project.version=6.1
+project.original.version=6.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.3.0
+project.id=f700bdd1-57e4-4d29-adbf-003673c068d8
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=illyr/testProjectGit.git
